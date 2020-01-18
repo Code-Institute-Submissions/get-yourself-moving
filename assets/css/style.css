@@ -25,6 +25,10 @@ Margin: 15px;
 text-align: center;
 }
 
+.card-img {
+    height:100%;
+}
+
 /*--------------------------------------------Jumbotron*/
 .hero-image {
     background-image: url('../images/book.jpg'); 
