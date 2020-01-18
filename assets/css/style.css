@@ -1,0 +1,35 @@
+/*--------------------------------------------Text Colors*/
+
+.jumbotron{
+    color: #d5dcf3
+}
+
+a {
+    color: #e4eaed
+}
+
+/*--------------------------------------------Background Colors*/
+
+.navy-bg {
+  background: linear-gradient(to right, #3C4759 0%, #575664 113%);
+}
+
+
+/*--------------------------------------------3 boxes*/
+.hero-boxes .col-sm{
+box-sizing: content-box;
+width: 33%;
+border:  #d8daeb86 3px;
+padding: 20px;
+Margin: 15px;
+text-align: center;
+}
+
+/*--------------------------------------------Jumbotron*/
+.hero-image {
+    background-image: url('../images/book.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 400px;
+}
