@@ -1,8 +1,27 @@
-/*--------------------------------------------Text Colors*/
+/*--------------------------------------------Navbar*/
 
-.jumbotron{
-    color: #d5dcf3
+
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .25);
+    border: 0;
 }
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
+
+/*--------------------------------------------Text Colors*/
 
 a {
     color: #e4eaed
@@ -15,22 +34,45 @@ a {
 }
 
 body {
-    background-color: #d4cfc8;
+    background-color: #ffffff;
 }
 
 
-/*--------------------------------------------3 boxes*/
-
-
-.card-img {
-    height: 100%;
-}
 
 /*--------------------------------------------Jumbotron*/
+
 .hero-image {
-    background-image: url('../images/book.jpg'); 
+    background-image: url('../images/weights.jpg'); 
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     height: 400px;
+}
+
+/*--------------------------------------------3 boxes*/
+
+
+
+
+/*--------------------------------------------Footer*/
+
+
+footer{
+    height: 150px;
+}
+.social-networks {
+  
+    text-align: center;
+
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
 }
