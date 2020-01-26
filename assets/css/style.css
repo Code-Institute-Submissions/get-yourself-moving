@@ -10,10 +10,6 @@
 
 /*--------------------------------------------Background Colors*/
 
-body {
-    background-color: #ffffff;
-}
-
 
 
 /*--------------------------------------------Jumbotron*/
@@ -26,14 +22,20 @@ body {
     height: 400px;
 }
 
-/*--------------------------------------------3 boxes*/
+/*--------------------------------------------body*/
 
-.offering {
+.banner {
     border-top-style: solid;
     border-bottom-style: solid;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: .5rem;
 
 }
-
+.banner h2 {
+    padding:.25rem;
+    margin: 0rem;
+}
 /*--------------------------------------------testimonials*/
 
 .testimonials {
@@ -61,9 +63,7 @@ body {
 
 /*--------------------------------------------Footer*/
 
-
 .social-networks {
-  
     text-align: center;
 
 }
@@ -76,5 +76,9 @@ body {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
+    color: #777777;
+}
+
+.social-section {
     color: #777777;
 }
