@@ -28,7 +28,11 @@ body {
 
 /*--------------------------------------------3 boxes*/
 
-
+.offering {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    
+}
 
 
 /*--------------------------------------------Footer*/
