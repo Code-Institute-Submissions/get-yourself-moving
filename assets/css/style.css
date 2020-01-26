@@ -31,16 +31,36 @@ body {
 .offering {
     border-top-style: solid;
     border-bottom-style: solid;
-    
+
 }
 
+/*--------------------------------------------testimonials*/
+
+.testimonials {
+    text-align: left;
+    margin-top:2rem;
+
+}
+
+.media-body p {
+    font-size: 14px; 
+}
+
+
+.quote-name {
+    display: block;
+    font-size: 80%;
+    color: #6c757d;
+}
+
+.media {
+     border: 2px solid grey;
+    border-radius: 5px;
+}
 
 /*--------------------------------------------Footer*/
 
 
-footer{
-    height: 150px;
-}
 .social-networks {
   
     text-align: center;
