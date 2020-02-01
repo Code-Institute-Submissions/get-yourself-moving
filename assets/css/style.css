@@ -68,17 +68,43 @@
 
 }
 
+.social-networks {
+    padding-inline-start: 0px;
+}
+
 .social-networks li {
     display: inline;
+    
 }
 
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #777777;
+    color: #ffffff;
 }
 
 .social-section {
+    color: #777777;
+}
+
+
+.contactinfo {
+    float: left;
+    padding: 25px;
+    color: #777777;
+    display: inline-block;
+}
+
+.contactinfo i {
+    font-size: 150%;
+    color: #777777; 
+    margin:1%;
+    display: inline-block;
+}
+
+.copyright {
+    font-size: 50%;
+    vertical-align: bottom;
     color: #777777;
 }
