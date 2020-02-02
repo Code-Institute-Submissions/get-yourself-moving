@@ -2,7 +2,7 @@
  # GYM - Get Yourself Moving
  This is a website about a gym located in Dublin.
  
- ## A mobile first designed website using CSS and HTML5 and Bootstrap
+ ## A mobile first designed website using CSS, HTML5, Bootstrap & font awesome
  
 External user’s goal:
 The site's users are people interested in finding out about GYM and signing up for membership
