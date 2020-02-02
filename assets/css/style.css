@@ -12,6 +12,7 @@
 
 
 
+
 /*--------------------------------------------Jumbotron*/
 
 .hero-image {
@@ -22,14 +23,19 @@
     height: 400px;
 }
 
+.jumbotron {
+    margin-bottom: 0rem;
+
+}
+
 /*--------------------------------------------body*/
 
 .banner {
     border-top-style: solid;
     border-bottom-style: solid;
-    margin-top: 50px;
-    margin-bottom: 50px;
     padding: .5rem;
+    margin: 2rem;
+
 
 }
 .banner h2 {
@@ -104,4 +110,10 @@
     vertical-align: bottom;
     color: #777777;
     text-align: center;
+}
+
+
+.price-boxes {
+    padding: 2%;
+    margin: 2%;
 }
