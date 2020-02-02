@@ -75,7 +75,7 @@
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 150%;
     margin: 1%;
     padding: 5%;
     color: #777777; 
@@ -99,7 +99,7 @@
 }
 
 .contactinfo i {
-    font-size: 120%;
+    font-size: 110%;
     color: #777777; 
     margin:1%;
     display: inline-block;
@@ -120,4 +120,37 @@
 
 .membership {
     margin-bottom: 5%;
+}
+
+.barbell-image {
+    background-image: url('../images/barbell-on-the-floor.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 105% 125%;
+    position: relative;
+    height: 400px;
+}
+.JoinUsJumbo {
+    color: #ffffff;
+
+}
+.joinusbtn {
+    font-size: 10rem;
+    line-height: 3rem;
+}
+
+
+/*--------------------------------------------About Page*/
+.map-img {
+    background-image: url('../images/dublin-map.png'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 400px;
+
+}
+
+.about-details {
+    background-color: #212529;
+    color: #ffffff;
+    
 }

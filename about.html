@@ -15,9 +15,9 @@
 	<title>Document</title>
 </head>
 <!-- Navigation -->
-
+<body>
 <nav class="navbar sticky-top navbar-dark bg-dark navbar-light navbar-expand-sm">
-        <a href="index.html" class="navbar-brand"> G.Y.M.</a>
+        <a href="index.html" class="navbar-brand"> <img src="assets/images/logo.png" class="rounded-circle align-self-center p-1" height=100 width=100></a>
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -29,12 +29,25 @@
                 </ul>
             </div>
 </nav>
+
 	<!-- body-->
 
 <body>
+<div class="banner container">
+	<h2 class="text-center text-uppercase">About Us</h2>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-6 map-img"></div>
+        <div class="col-6 about-details">
+            <h4>Address</h4>
+            <p> Main Street, Dublin 2 </p>
+
+        </div>
+  </div>
+</div>
 
 </body>
-
 	<!------- Javascript------>
 
 
@@ -45,17 +58,31 @@
 
 	<!-- footer-->
 
+<footer class="bg-dark footer-style">
 
-<footer class="bg-dark">
-        <div class="container">
-		    <h2 class="text-center text-uppercase">Follow Us</h2>
-        </div>
-     <ul class="social-networks">
-                <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
-                <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-                <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
-                <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
-            </ul>
+<div class=".container-sm">
+  <div class="row">
+    <div class="col-sm-4 contactinfo">
+        <p> <i class="fas fa-map-marker-alt"></i>Main Street, Dublin 2 </p>
+        <p> <i class="fas fa-envelope"></i> hello@getyourselfmoving.ie </p>
+    </div>
+    <div class="col-sm-4 logo d-flex justify-content-center">
+         <img src="assets/images/logo.png" class="rounded-circle align-self-center p-1 d-none d-sm-block" height=120 width=120>
+    </div>
+      <div class="col-sm-4 social-section">
+        <ul class="social-networks">
+			<li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+			<li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+			<li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+			<li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+		</ul>
+    </div>
+  </div>
+</div>
+<div class="container-fluid copyright">  
+     Copyright - This website is for educational purposes only
+</div>
+
 </footer>
 
 </html>
