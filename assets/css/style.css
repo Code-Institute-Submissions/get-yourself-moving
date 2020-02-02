@@ -112,8 +112,12 @@
     text-align: center;
 }
 
-
+/*--------------------------------------------Membership Page*/
 .price-boxes {
     padding: 2%;
     margin: 2%;
+}
+
+.membership {
+    margin-bottom: 5%;
 }
