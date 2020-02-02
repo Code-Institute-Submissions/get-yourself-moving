@@ -63,13 +63,10 @@
 
 /*--------------------------------------------Footer*/
 
-.social-networks {
-    text-align: center;
-
-}
 
 .social-networks {
     padding-inline-start: 0px;
+     text-align: center;
 }
 
 .social-networks li {
@@ -81,30 +78,36 @@
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #ffffff;
+    color: #777777; 
 }
 
 .social-section {
     color: #777777;
+    padding: 25px;
 }
-
 
 .contactinfo {
     float: left;
     padding: 25px;
     color: #777777;
     display: inline-block;
+   
+}
+
+.contactinfo p {
+    text-align: center;
 }
 
 .contactinfo i {
-    font-size: 150%;
+    font-size: 120%;
     color: #777777; 
     margin:1%;
     display: inline-block;
 }
 
 .copyright {
-    font-size: 50%;
+    font-size: 60%;
     vertical-align: bottom;
     color: #777777;
+    text-align: center;
 }
