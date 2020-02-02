@@ -27,8 +27,8 @@
 .banner {
     border-top-style: solid;
     border-bottom-style: solid;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     padding: .5rem;
 
 }
@@ -38,16 +38,10 @@
 }
 /*--------------------------------------------testimonials*/
 
-.testimonials {
-    text-align: left;
-    margin-top:2rem;
-
-}
 
 .media-body p {
     font-size: 14px; 
 }
-
 
 .quote-name {
     display: block;
