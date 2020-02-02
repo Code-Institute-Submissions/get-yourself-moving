@@ -150,7 +150,13 @@
 }
 
 .about-details {
-    background-color: #212529;
-    color: #ffffff;
-    
+    font-family: "Segoe UI","Roboto","Helvetica Neue";
+    font-weight: 400;
+    padding: 3%;
+    color: #212529;
+    text-align: left;
+
+}
+.about-details p {
+     color: #69737c;
 }
