@@ -2,7 +2,9 @@
  # GYM - Get Yourself Moving
  This is a website about a gym located in Dublin. The website is meant to outline key facts about the gym and encourage people to join the gym and get fit.
  
-The website is a mobile first designed website using CSS, HTML5, Bootstrap & font awesome
+The website is a mobile first designed website using CSS, HTML5, Bootstrap & font awesome. 
+
+The deployed website link is https://aoifemurfe.github.io/Milestone-Project-1/
  
 ## UX
 External user’s goal:
