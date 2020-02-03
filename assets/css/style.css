@@ -141,13 +141,10 @@
 
 /*--------------------------------------------About Page*/
 .map-img {
-    background-image: url('../images/dublin-map.png'); 
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    height: 400px;
-
+    width: 50%
 }
+
+
 
 .about-details {
     font-family: "Segoe UI","Roboto","Helvetica Neue";
@@ -155,6 +152,7 @@
     padding: 3%;
     color: #212529;
     text-align: left;
+    width: 50%;
 
 }
 .about-details p {
