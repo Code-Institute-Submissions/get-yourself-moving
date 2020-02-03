@@ -4,7 +4,7 @@
  
 The website is a mobile first designed website using CSS, HTML5, Bootstrap & font awesome. 
 
-The deployed website link is https://aoifemurfe.github.io/Milestone-Project-1/
+The deployed website link ishttps://aoifemurfe.github.io/get-yourself-moving/
  
 ## UX
 External user’s goal:
