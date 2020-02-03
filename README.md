@@ -27,6 +27,8 @@ To provide information about the gym and entice people to contact them and join.
 ## Testing
 All navigation links have been tested to ensure that they bring the user to the correct page. The design is responsive and so works on both desktop, tablet and mobile. 
 
+I performed audits using the google lighthouse score tool and updated as per feedback. https://web.dev/ 
+
 
 ## Deployment
 This project has been prepared on Git hub. The deployed version and the git hub version are the same.
